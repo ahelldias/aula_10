@@ -1,0 +1,53 @@
+
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+}
+
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+    background-color: rgb(59, 171, 79);
+    border-color: rgb(59, 171, 79);
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.form{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+.b{   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+    background-color: rgb(59, 171, 79);
+    border-radius: 5px;
+    padding: 5px;
+    width: 125px;
+    border-color: rgb(59, 171, 79);
+}
+
+.b2{
+    width: 125px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    background-color: rgb(59, 171, 79);
+    border-color: rgb(59, 171, 79);
+    border-radius: 5px;
+    padding: 7px;
+    font-size: 20px;
+    text-decoration: none;
+}
